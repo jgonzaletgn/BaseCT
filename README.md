@@ -1,11 +1,9 @@
-# BaseCT (0.1)
+# BaseCT
 
-A lightweight, desktop-first mini database app built with **Python + PySide6**.
+Base Creator Tool (BaseCT) is a lightweight, desktop-first mini database app built with **Python + PySide6**.
 It lets you create projects and tables, define fields, and work with records in a spreadsheet-like UI.
 
-**Author:** Jorge González  
-**Version:** 0.1  
-**Release date:** 2025-12-30
+<img width="1918" height="1007" alt="imagen" src="https://github.com/user-attachments/assets/19451be5-c91e-40cd-99f8-b4268a9d8bd6" />
 
 ---
 
