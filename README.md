@@ -84,6 +84,4 @@ Changing language restarts the main window so all UI strings are rebuilt.
 
 ---
 
-## License
 
-Internal / personal use. Add your preferred license here.
