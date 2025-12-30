@@ -1,6 +1,6 @@
 # BaseCT (0.1)
 
-A lightweight, desktop-first mini “Baserow-like” database app built with **Python + PySide6**.
+A lightweight, desktop-first mini database app built with **Python + PySide6**.
 It lets you create projects and tables, define fields, and work with records in a spreadsheet-like UI.
 
 **Author:** Jorge González  
