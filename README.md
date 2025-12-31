@@ -40,7 +40,7 @@ pip install reportlab   # optional, only needed for PDF export
 
 ## Run
 
-From the `baserow_lite` folder:
+From the `main` folder:
 
 ```bash
 python app.py
@@ -48,8 +48,8 @@ python app.py
 
 The app creates:
 
-- `baserow_lite/data/baserow_lite.sqlite3` (database)
-- `baserow_lite/vault/` (attachments: files/images)
+- `/data/baserow_lite.sqlite3` (database)
+- `/vault/` (attachments: files/images)
 
 ---
 
